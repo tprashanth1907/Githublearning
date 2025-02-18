@@ -1,6 +1,6 @@
 pthis is my main folder
-:Q
-:w
+calling function 1
+
 --Insert--
 
 
